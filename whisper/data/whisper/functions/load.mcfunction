@@ -1,0 +1,1 @@
+function whisper:texto1 
