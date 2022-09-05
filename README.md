@@ -1,3 +1,3 @@
 # Whisper DataPack
 
-A simple datapack to server send /w to others players!
+A simple datapack to server send private messages to others players!
